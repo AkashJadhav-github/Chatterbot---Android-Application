@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/supriya/.android/build-cache/06723ef35bf60859eb0a864959618de7544c49b5/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/supriya/.android/build-cache/06723ef35bf60859eb0a864959618de7544c49b5/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/supriya/.android/build-cache/06723ef35bf60859eb0a864959618de7544c49b5/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/supriya/.android/build-cache/06723ef35bf60859eb0a864959618de7544c49b5/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

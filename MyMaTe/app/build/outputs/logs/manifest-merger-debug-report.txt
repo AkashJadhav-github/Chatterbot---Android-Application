@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:5:5-83
+	android:name
+		ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/supriya/.android/build-cache/ad2e8ae64147d9b9d8e966f029efbd224ab1544e/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/supriya/.android/build-cache/831e9f5f77f2aebc122701ca1cabd930fa34a3f7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/supriya/.android/build-cache/adda47afe2454e45a8402d0ac202f480a3611c0e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.github.lguipeng:BubbleView:1.0.1] /home/supriya/.android/build-cache/69fc1e2d4a310614de7c276f31c2b8f1b78bc41d/output/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/supriya/.android/build-cache/06723ef35bf60859eb0a864959618de7544c49b5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/supriya/.android/build-cache/e072f3c6ddb3036dbf930df0789493a246119a69/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/supriya/.android/build-cache/55ba0959518779e8ae785221fd57778d9fb8fb28/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/supriya/.android/build-cache/2af92c35e9f382608048b406c9e71a8aa61fafff/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/supriya/.android/build-cache/f3ce8016686365270bbccf9ad314b85611c691db/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/supriya/.android/build-cache/8236da4e4cf3503272e4400dc23fdde67ebcc005/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/supriya/.android/build-cache/daaab4bd2bac5e8eb211c582de5e13a79d0b1298/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/supriya/.android/build-cache/c0bccfd0facbc6dbc13c26a89116a1809b0a5f10/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/supriya/.android/build-cache/701c4b2fd2f1cae9cfba206aa8fe88e87ec5fd85/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.supriya.mymate.MainActivity
+ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/supriya/.android/build-cache/ad2e8ae64147d9b9d8e966f029efbd224ab1544e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/supriya/.android/build-cache/831e9f5f77f2aebc122701ca1cabd930fa34a3f7/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/supriya/.android/build-cache/5e0d242df679ada92e7fc098a06ee81f7a178d31/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/supriya/.android/build-cache/adda47afe2454e45a8402d0ac202f480a3611c0e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.github.lguipeng:BubbleView:1.0.1] /home/supriya/.android/build-cache/69fc1e2d4a310614de7c276f31c2b8f1b78bc41d/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/supriya/.android/build-cache/06723ef35bf60859eb0a864959618de7544c49b5/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/supriya/.android/build-cache/e072f3c6ddb3036dbf930df0789493a246119a69/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/supriya/.android/build-cache/55ba0959518779e8ae785221fd57778d9fb8fb28/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/supriya/.android/build-cache/2af92c35e9f382608048b406c9e71a8aa61fafff/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/supriya/.android/build-cache/f3ce8016686365270bbccf9ad314b85611c691db/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/supriya/.android/build-cache/8236da4e4cf3503272e4400dc23fdde67ebcc005/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/supriya/.android/build-cache/daaab4bd2bac5e8eb211c582de5e13a79d0b1298/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/supriya/.android/build-cache/c0bccfd0facbc6dbc13c26a89116a1809b0a5f10/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/supriya/.android/build-cache/701c4b2fd2f1cae9cfba206aa8fe88e87ec5fd85/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/supriya/.android/build-cache/831e9f5f77f2aebc122701ca1cabd930fa34a3f7/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/supriya/Documents/Akash android app/MyMaTe/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/supriya/.android/build-cache/831e9f5f77f2aebc122701ca1cabd930fa34a3f7/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/supriya/.android/build-cache/5e0d242df679ada92e7fc098a06ee81f7a178d31/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/supriya/.android/build-cache/adda47afe2454e45a8402d0ac202f480a3611c0e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/supriya/.android/build-cache/06723ef35bf60859eb0a864959618de7544c49b5/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/supriya/.android/build-cache/e072f3c6ddb3036dbf930df0789493a246119a69/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/supriya/.android/build-cache/55ba0959518779e8ae785221fd57778d9fb8fb28/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/supriya/.android/build-cache/2af92c35e9f382608048b406c9e71a8aa61fafff/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/supriya/.android/build-cache/f3ce8016686365270bbccf9ad314b85611c691db/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/supriya/.android/build-cache/8236da4e4cf3503272e4400dc23fdde67ebcc005/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/supriya/.android/build-cache/daaab4bd2bac5e8eb211c582de5e13a79d0b1298/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/supriya/.android/build-cache/c0bccfd0facbc6dbc13c26a89116a1809b0a5f10/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/supriya/.android/build-cache/701c4b2fd2f1cae9cfba206aa8fe88e87ec5fd85/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/supriya/.android/build-cache/831e9f5f77f2aebc122701ca1cabd930fa34a3f7/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/supriya/.android/build-cache/831e9f5f77f2aebc122701ca1cabd930fa34a3f7/output/AndroidManifest.xml:26:9-47

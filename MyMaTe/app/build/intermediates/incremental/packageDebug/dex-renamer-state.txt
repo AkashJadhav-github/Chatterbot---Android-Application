@@ -1,0 +1,7 @@
+#Mon Jul 31 12:34:07 IST 2017
+base.0=/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b446d0a585eabb9dd68c7d7f52f8bf15c712d30d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4f237899f85df4e4b22b2c93535f85c7c5158146/classes.dex
+base.1=/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4f237899f85df4e4b22b2c93535f85c7c5158146
+file.0=/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b446d0a585eabb9dd68c7d7f52f8bf15c712d30d/classes.dex

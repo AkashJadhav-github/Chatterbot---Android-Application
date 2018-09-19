@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.android/build-cache/c0bccfd0facbc6dbc13c26a89116a1809b0a5f10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/classes_00c07bcffc3c0573a5f8178403cf87b8993983c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.android/build-cache/701c4b2fd2f1cae9cfba206aa8fe88e87ec5fd85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/classes_419d485696449bc221cb04c796a363b525f74870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.android/build-cache/ad2e8ae64147d9b9d8e966f029efbd224ab1544e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/classes_16c6946280e15a5b9941654d513e0c8527c08e09.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b446d0a585eabb9dd68c7d7f52f8bf15c712d30d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.android/build-cache/adda47afe2454e45a8402d0ac202f480a3611c0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/classes_e1e4f387379f241716c9f9da957f1dad37f91a9d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ade4bdd83bae4553463741d480eadb93b4191959">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4f237899f85df4e4b22b2c93535f85c7c5158146/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/gson-2.8.0_d753e70ee671870bdbb22792f4754d038605bd8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.android/build-cache/2af92c35e9f382608048b406c9e71a8aa61fafff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/classes_74779c7dc0373deb0d0ab572a476395d1e5dfe14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.android/build-cache/e072f3c6ddb3036dbf930df0789493a246119a69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/classes_3e9a42ff2c8bbb7c73f37df27ac56313b319d622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.android/build-cache/06723ef35bf60859eb0a864959618de7544c49b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/classes_953150ce1a50b9cda4656d9e8caddd3a3f331648.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.android/build-cache/daaab4bd2bac5e8eb211c582de5e13a79d0b1298/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/classes_615d302b61379468122863a840684a12b884b3d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_846bcfd93dd2784eadd159b3828a0e2ab45edd79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.android/build-cache/f3ce8016686365270bbccf9ad314b85611c691db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/classes_99671d07d83ee8b49bcd4113ae8dde6588ad0296.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.android/build-cache/55ba0959518779e8ae785221fd57778d9fb8fb28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/classes_904cb6ed10a217d6991113288288bda92cf76791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.android/build-cache/69fc1e2d4a310614de7c276f31c2b8f1b78bc41d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="49cfe618ead4198c63130e6f6c82e1dd213af3b3">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/classes_ba8f1033901941ffaa6d6321d905e800fec3ce22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.android/build-cache/831e9f5f77f2aebc122701ca1cabd930fa34a3f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/classes_848d45bc33d0b157ad00c56485341d8499eec085.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.android/build-cache/5e0d242df679ada92e7fc098a06ee81f7a178d31/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/classes_3acde577322243df4a760f7fded3dab5627cf0ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/.android/build-cache/8236da4e4cf3503272e4400dc23fdde67ebcc005/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/classes_69a486643f47b33179705dace8fa61028708109e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/supriya/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha7_5b4824e9d9386c6b9858bdb623ed6c327c170c43.jar" />
+    </item>
+
+</items>

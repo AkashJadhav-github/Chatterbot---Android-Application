@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/supriya/Documents/Akash android app/MyMaTe/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/supriya/Documents/Akash android app/MyMaTe/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/supriya/Documents/Akash android app/MyMaTe/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]
